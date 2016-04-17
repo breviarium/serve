@@ -27,5 +27,13 @@
   "dependencies": {
     "babel-runtime": "^6.6.1",
     "brevis-core": "0.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breviarium/serve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/breviarium/serve/issues"
+  },
+  "homepage": "https://github.com/breviarium/serve#readme"
 }
